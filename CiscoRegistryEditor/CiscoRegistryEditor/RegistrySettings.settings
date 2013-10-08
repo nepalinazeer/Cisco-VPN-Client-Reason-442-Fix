@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CiscoRegistryEditor" GeneratedClassName="RegistrySettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RLocBaseKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HKEY_LOCAL_MACHINE\</Value>
+    </Setting>
+    <Setting Name="RLocSubKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SYSTEM\CurrentControl­Set\Services\CVirta</Value>
+    </Setting>
+    <Setting Name="RLocSubKeyTry" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SOFTWARE\River Logic\NajirTest</Value>
+    </Setting>
+    <Setting Name="CorrectValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Cisco Systems VPN Adapter for 64-bit</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

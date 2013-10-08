@@ -1,0 +1,10 @@
+C:\Users\npandey\Desktop\MyProjects\CiscoRegistryEditor\CiscoRegistryEditor\bin\Debug\CiscoRegistryEditor.exe.config
+C:\Users\npandey\Desktop\MyProjects\CiscoRegistryEditor\CiscoRegistryEditor\bin\Debug\CiscoRegistryEditor.exe
+C:\Users\npandey\Desktop\MyProjects\CiscoRegistryEditor\CiscoRegistryEditor\bin\Debug\CiscoRegistryEditor.pdb
+C:\Users\npandey\Desktop\MyProjects\CiscoRegistryEditor\CiscoRegistryEditor\obj\Debug\CiscoRegistryEditor.csprojResolveAssemblyReference.cache
+C:\Users\npandey\Desktop\MyProjects\CiscoRegistryEditor\CiscoRegistryEditor\obj\Debug\CiscoRegistryEditor.Form1.resources
+C:\Users\npandey\Desktop\MyProjects\CiscoRegistryEditor\CiscoRegistryEditor\obj\Debug\CiscoRegistryEditor.Properties.Resources.resources
+C:\Users\npandey\Desktop\MyProjects\CiscoRegistryEditor\CiscoRegistryEditor\obj\Debug\CiscoRegistryEditor.csproj.GenerateResource.Cache
+C:\Users\npandey\Desktop\MyProjects\CiscoRegistryEditor\CiscoRegistryEditor\obj\Debug\CiscoRegistryEditor.exe
+C:\Users\npandey\Desktop\MyProjects\CiscoRegistryEditor\CiscoRegistryEditor\obj\Debug\CiscoRegistryEditor.pdb
+C:\Users\npandey\Desktop\MyProjects\CiscoRegistryEditor\CiscoRegistryEditor\obj\Debug\CiscoRegistryEditor.About.resources
